@@ -1,0 +1,6 @@
+{
+  "name": "PDmirrorincident",
+  "description": "Custom action to create a mirror incident with conf bridge info",
+  "repository": "https://github.com/martindstone/PDmirrorincident",
+  "keywords": ["PDmirrorincident"]
+}
