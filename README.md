@@ -1,4 +1,4 @@
-# PDenrichincident
+# PDmirrorincident
 Custom action to create a mirror incident with conf bridge info
 
 ## Summary
